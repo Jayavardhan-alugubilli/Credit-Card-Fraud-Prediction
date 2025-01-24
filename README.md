@@ -1,1 +1,2 @@
 # Credit-Card-Fraud-Prediction
+This is a graphical user interface (GUI) application built with Tkinter that implements a credit card fraud detection system. The application utilizes Logistic Regression to train a machine learning model and predict whether a credit card transaction is legitimate or fraudulent. The user can load a dataset, train a model, and evaluate its performance directly through the GUI.
